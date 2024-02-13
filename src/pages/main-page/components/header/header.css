@@ -1,0 +1,31 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 16px 24px 0px 24px;
+    background-color: #F0F5FF;
+}
+.main {
+    color: #262626;
+    font-size: 14px;
+    line-height: 1.3;
+    font-weight: 400;
+}
+.helloContainer {
+    display: flex;
+}
+.hello {
+    margin-top: 14;
+    margin-right: 129;
+    margin-bottom: 6;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+.setup {
+    margin-top: 8px;
+    display: flex;
+    padding: 7px 15px 7px 15px;
+}
+.setupImg {
+    margin-right: 10px;
+}
